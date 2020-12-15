@@ -12,7 +12,7 @@ import java.util.List;
 import VO.UserVo;
 
 public class userdao {
-	private final String select = "select *from test_user";
+	private final String select = "select *from uset_test";
 	
 	UserVo user;
 
